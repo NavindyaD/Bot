@@ -66,6 +66,7 @@ const promptSuggestions = [
   { icon: '💡', text: 'What is the weather today?' },
   { icon: '📚', text: 'Tell me a fun fact' },
   { icon: '🤖', text: 'What is Claude AI?' },
+  { icon: '🤖', text: 'About trees?' },
 ]
 
 const handlePromptClick = (prompt: string) => handleSend(prompt)
